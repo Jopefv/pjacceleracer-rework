@@ -1,0 +1,187 @@
+{
+  "cards": [
+    {
+      "id": 105,
+      "Name": "Sprout Road",
+      "Type": "Acelecharger(AC)",
+      "Description": "The Sprout Road Accele-charger grows a living track in front of your car. Cancel all Hazards played againts a vehicle stack as long as Sprout Road remains equipped to that car",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/106.jpg"
+    },
+    {
+      "id": 106,
+      "Name": "Hyper-Jump",
+      "Type": "Acelecharger(AC)",
+      "Description": "Making jet-boosted corrections on the fly, this Accele-Charger allows you to execute a perfect jump every time you catch some air.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/107.jpg"
+    },
+    {
+      "id": 107,
+      "Name": "Frictionless",
+      "Type": "Acelecharger(AC)",
+      "Description": "This Accele-Charger forms a frictionless sphere of air around the car, dropping wind and road resistance to zero.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/108.jpg"
+    },
+    {
+      "id": 108,
+      "Name": "Lighting Rod",
+      "Type": "Acelecharger(AC)",
+      "Description": "This Accele-Charger screens out high-voltage attacks, deflecting electrical charges away from a car's vulnerable innards: its circuits, its CPU and you.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/109.jpg"
+    },
+    {
+      "id": 109,
+      "Name": "Fog Vision",
+      "Type": "Acelecharger(AC)",
+      "Description": "For the Realm in which Fog Vision enters play, you may relocate the SPP ESCAPE VALUE on YOUR SIDE ONLY. Mark new location with a token. Opponent must use the printed Escape Value. Realm rétums to normal when Fog Vision",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/110.jpg"
+    },
+    {
+      "id": 110,
+      "Name": "Slip Grip",
+      "Type": "Acelecharger(AC)",
+      "Description": "This Accele-Charger increases the friction of all slippery surfaces, making them as easy to drive on as bone-dry pavement.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/111.jpg"
+    },
+    {
+      "id": 111,
+      "Name": "Wind Shark",
+      "Type": "Acelecharger(AC)",
+      "Description": "By monitoring atmospheric fluctuations, this Accele-Charger compensates for all wind variations, stabilizing the car in even the strongest of gales",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/112.jpg"
+    },
+    {
+      "id": 112,
+      "Name": "Undistort",
+      "Type": "Acelecharger(AC)",
+      "Description": "The Undistort Accele-Charger pierces any form of illusion, be it mirage, reflection or holographic camouflage technology. When this card comes into play, you may look at your opponent's hand.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/113.jpg"
+    },
+    {
+      "id": 113,
+      "Name": "Night Sight",
+      "Type": "Acelecharger(AC)",
+      "Description": "Night Sight translates pulsed UV light into VR imaging, allowing a driver to see in total darkness. When this card is brought into play, draw two extra cards from your draw pile for free.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/114.jpg"
+    },
+    {
+      "id": 114,
+      "Name": "Hydroglide",
+      "Type": "Acelecharger(AC)",
+      "Description": "Plugging in this Accele-Charger creates a static shield around the car, allowing it to glide across - or even through-any liquid environment.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/115.jpg"
+    },
+    {
+      "id": 115,
+      "Name": "Turn and Burn",
+      "Type": "Acelecharger(AC)",
+      "Description": "This Accele-Charger manipulates a car's power differential so it can safely 'drift' around hairpin turns without sacrificing either speed or power.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/116.jpg"
+    },
+    {
+      "id": 116,
+      "Name": "Navigator",
+      "Type": "Acelecharger(AC)",
+      "Description": "This Accele-Charger pinpoints the car's position and points unerringly in the right direction. When this card comes into play, you may equip 1 Shift card for free on ANY Vehicle.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/117.jpg"
+    },
+    {
+      "id": 117,
+      "Name": "Battering Bubble",
+      "Type": "Acelecharger(AC)",
+      "Description": "Modulating the magnetic polarity of your car, this Accele-Charger pushes all obstacles out of your way. Hazards do not affect this vehicle stack while Battering Bubble remains equipped.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/118.jpg"
+    },
+    {
+      "id": 118,
+      "Name": "Wall Crawl",
+      "Type": "Acelecharger(AC)",
+      "Description": "This Accele-Charger bonds the wheels of the car to the road so that the vehicle 'sticks' to the track - even when the track twists upside down!",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/119.jpg"
+    },
+    {
+      "id": 119,
+      "Name": "Sound Buffer",
+      "Type": "Acelecharger(AC)",
+      "Description": "This Accele-Charger broadcasts complementary sound waves in response to any other sound approaching the car. The result is complete silence, effectively negating any sonic attacks.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/120.jpg"
+    },
+    {
+      "id": 120,
+      "Name": "Phantom Form",
+      "Type": "Acelecharger(AC)",
+      "Description": "Phantom Form 'ghosts' your car, avoiding collisions by phasing right through solid matter. When this card is brought into play, return a Shift card from your junk pile to your hand.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/121.jpg"
+    },
+    {
+      "id": 121,
+      "Name": "Light Speed",
+      "Type": "Acelecharger(AC)",
+      "Description": "This Accele-Charger propels the car to Mach speeds and beyond. Watch the rest of the world move in slow motion as you drive at the speed of light!",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/122.jpg"
+    },
+    {
+      "id": 122,
+      "Name": "Impervious Tires",
+      "Type": "Acelecharger(AC)",
+      "Description": "As long as it's equipped, the Impervious Tires Accele-Charger absorbs all damage to the Vehicle's wheels so that they never wear out.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/123.jpg"
+    },
+    {
+      "id": 123,
+      "Name": "Water Realm",
+      "Number": "026",
+      "Type": "Realm",
+      "Description": "Speeding through race tubes formed of 'solid water', drivers on the Ocean track must contend with hungry aquatic hazards while negotiating an ancient coral reef.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/90.jpg"
+    },
+    {
+      "id": 124,
+      "Name": "Anti-Gravitation",
+      "Type": "Accelechargers",
+      "Effects": "The Anti-Gravitation Accele-Charger makes gravity your friend. Turn it on, turn it off - do whatever you need with the laws of physics to float to the head of the pack.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/124.jpg"
+    },
+    {
+      "id": 125,
+      "Name": "Total Traction",
+      "Type": "Accelechargers",
+      "Effects": "This Accele-Charger provides enormous traction over WATER, SAND, MUD, SLICK, ROUGH and PAVED terrain.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/125.jpg"
+    },
+    {
+      "id": 126,
+      "Name": "Folding Corners",
+      "Type": "Accelechargers",
+      "Effects": "Snap your car through impossible 90 turns! Place a token on this card every turn you spend no APs. Each token adds a +1 to this card's S, P and P values.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/126.jpg"
+    },
+    {
+      "id": 127,
+      "Name": "2-D",
+      "Type": "Accelechargers",
+      "Effects": "Slip through the cracks! When a Hazard is played against you, equip 2-D on the targeted Vehicle to cancel the Hazard and send it to your opponent's junk pile.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/127.jpg"
+    },
+    {
+      "id": 128,
+      "Name": "Sand Speed",
+      "Type": "Accelechargers",
+      "Effects": "A binding field from this Accele-Charger temporarily fuses sand or any other unstable surface in front of the car - just long enough for the racer to speed over it in safety.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/128.jpg"
+    },
+    {
+      "id": 129,
+      "Name": "Teleport",
+      "Type": "Accelechargers",
+      "Effects": "Warp past danger! Protect a Vehicle stack from Hazards for 3 turns. When Teleport is equipped, place 3 tokens on it and remove 1 each turn during your tune-up phase to track the 3 turns.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/129.jpg"
+    },
+    {
+      "id": 130,
+      "Name": "Size Scaler",
+      "Type": "Accelechargers",
+      "Effects": "Shrink or grow your car to squeeze through a tight spot or roll over the top of it! This Vehicle can equip ANY Mod while Size Scaleris equipped, and keeps these Mods when Vehicle advances.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/130.jpg"
+    }
+  ]
+}

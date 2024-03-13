@@ -1,0 +1,284 @@
+{
+  "cards": [
+    {
+      "id": 171,
+      "Name": "Moss Gorillas",
+      "Type": "Hazard",
+      "Description": "One hit from these giant apes can totally trash a car. The opposing player must remove all Mods from the targeted Vehicle and place them in their junk pile.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/171.jpg"
+    },
+    {
+      "id": 172,
+      "Name": "Carnivorous Plants",
+      "Type": "Hazard",
+      "Description": "These ravenous, snapping plants will bite right through a car to reach the meaty driver-filling inside.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/172.jpg"
+    },
+    {
+      "id": 173,
+      "Name": "Behemoth Mosquitoes",
+      "Type": "Hazard",
+      "Description": "With a stinger as hard as diamond, these creatures suck the life out of cars, one gallon of gas at a time.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/173.jpg"
+    },
+    {
+      "id": 174,
+      "Name": "Mutant Vulture",
+      "Type": "Hazard",
+      "Description": "These giant birds batter the life from a car before feeding on it. Choose one of your opponent's in-play Accele-Charger cards and remove it to their junk pile.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/174.jpg"
+    },
+    {
+      "id": 175,
+      "Name": "Rockslide",
+      "Type": "Hazard",
+      "Description": "A rockslide shatters the landscape in an instant! Cancel the Terrain SPP bonus for any 1 opposing Vehicle while it remains in its current Realm.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/175.jpg"
+    },
+    {
+      "id": 176,
+      "Name": "Bat Swarm",
+      "Type": "Hazard",
+      "Description": "Sensitive to the sound of rumbling engines or loud subwoofers, storms of vicious bat-like creatures repeatedly attack cars and drivers as they travel through the dark.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/176.jpg"
+    },
+    {
+      "id": 177,
+      "Name": "Molten River",
+      "Type": "Hazard",
+      "Description": "OVERHEAT: Have opponent place 4 tokens on the Mod you target, then remove 1 token each turn during THEIR tune-up phase. When all tokens are gone, immediately remove that Mod to its owner's junk pile.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/177.jpg"
+    },
+    {
+      "id": 178,
+      "Name": "Ice Yeti",
+      "Type": "Hazard",
+      "Description": "These albino, long haired mountain beasts are born blind but can hunt cars by smell, throwing huge chunks of ice at them with painful accuracy.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/178.jpg"
+    },
+    {
+      "id": 179,
+      "Name": "Ice Shrapnel",
+      "Type": "Hazard",
+      "Description": "Explosions of ice shards rip cars apart! Ice Shrapnel allows you to remove ALL RACE MODS equipped on ALL opposing Vehicles.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/179.jpg"
+    },
+    {
+      "id": 180,
+      "Name": "Kamikaze Semis",
+      "Type": "Hazard",
+      "Description": "Driverless - but possessed by a mechanical rage - these insane semis prowl the city's dead streets, hunting racers they can smash.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/180.jpg"
+    },
+    {
+      "id": 181,
+      "Name": "Wrecking Balls",
+      "Type": "Hazard",
+      "Description": "Massive Wrecking Balls suddenly slash across the track! Too busy dodging, your opponent cannot play any Mods on their next turn.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/181.jpg"
+    },
+    {
+      "id": 182,
+      "Name": "Spire Slalom",
+      "Type": "Hazard",
+      "Description": "Symbol-covered stone spires abruptly loom out of the fog dead ahead ancient, mysterious, and quite painful when you collide with one at 300mph.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/182.jpg"
+    },
+    {
+      "id": 183,
+      "Name": "Hairpin Turn",
+      "Type": "Hazard",
+      "Description": "The track twists sharply at the edge of a sheer cliff - this hairpin turn requires all of a driver's skill to avoid freefall.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/183.jpg"
+    },
+    {
+      "id": 184,
+      "Name": "Proto-Sharks",
+      "Type": "Hazard",
+      "Description": "Swimming mouthfuls of teeth, these aquatic horrors demand a driver's full attention to avoid their car-crushing jaws. The opposing player cannot play any Shift cards on their next turn.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/184.jpg"
+    },
+    {
+      "id": 185,
+      "Name": "Tsunami",
+      "Type": "Hazard",
+      "Description": "An enormous tidal wave rips and thrashes cars across the track. Remove ALL STREET MODS equipped on ALL opposing Vehicles",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/185.jpg"
+    },
+    {
+      "id": 186,
+      "Name": "Lightning Barrage",
+      "Type": "Hazard",
+      "Description": "Drawn by the metal in the cars, a barrage of lightning bolts rains across the track, blasting vehicles and blinding drivers with showers of sparks.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/186.jpg"
+    },
+    {
+      "id": 187,
+      "Name": "Black Ice",
+      "Type": "Hazard",
+      "Description": "Blinded by sleet, you hit a patch of deadly Black Ice and spin out of control at 300mph. Pumping the brakes probably won't help very much, but feel free to try.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/187.jpg"
+    },
+    {
+      "id": 188,
+      "Name": "Chrome Globes",
+      "Type": "Hazard",
+      "Description": "Massive chrome spheres rumble down the track, scattering all cars before them. Your opponent only plays with 3 APs (no team AP bonuses) on their next turn.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/188.jpg"
+    },
+    {
+      "id": 189,
+      "Name": "Scorpion Ambush",
+      "Type": "Hazard",
+      "Description": "These giant arachnids burst from the sand to attack racers. The size of small muscle cars, they prove a resilient and deadly hazard across the desert tracks.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/189.jpg"
+    },
+    {
+      "id": 190,
+      "Name": "Choke Values",
+      "Type": "Hazard",
+      "Description": "Giant valves open and close all along this stretch of pipeline. You'll need perfect timing to get through them without being crushed.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/190.jpg"
+    },
+    {
+      "id": 191,
+      "Name": "Toxic Gators",
+      "Type": "Hazard",
+      "Description": "Huge, mutant alligators lunge out of the toxic muck that covers the track! Better kiss your chrome goodbye.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/191.jpg"
+    },
+    {
+      "id": 192,
+      "Name": "Electric Fry",
+      "Type": "Hazard",
+      "Description": "A surge of electricity shorts out all electrical systems in the car. Remove 1 equipped Accele-Charger from 1 opposing Vehicle and place in its owner's junk pile.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/192.jpg"
+    },
+    {
+      "id": 193,
+      "Name": "Magnetic Bounce",
+      "Type": "Hazard",
+      "Description": "A magnetic pulse flings cars off the track! Send 1 opposing Vehicle back 1 Realm, discarding everything but Mods to its owner's junk pile. If Vehicle is in the first Realm, it returns to its owner's hand after discarding ALL its equipped cards to the junk pile.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/193.jpg"
+    },
+    {
+      "id": 194,
+      "Name": "Gear Crush",
+      "Type": "Hazard",
+      "Description": "The track veers through heavy machinery where huge gnashing gears and car-crushing pistons threaten cars on every side!",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/194.jpg"
+    },
+    {
+      "id": 195,
+      "Name": "Stone Colossus",
+      "Type": "Hazard",
+      "Description": "Is that stone statue actually moving?! Those sweeping hands can easily flatten any car on the track.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/195.jpg"
+    },
+    {
+      "id": 196,
+      "Name": "Sweeper Strike",
+      "Type": "Hazard",
+      "Description": "This vehicle has one primary purpose - to chase down cars and spit out scrap. Remove 1 opposing Vehicle stack to its owner's junk pile.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/196.jpg"
+    },
+    {
+      "id": 197,
+      "Name": "Acceleron Virus",
+      "Type": "Hazard",
+      "Description": "Accele-Charger cards. Remove 1 Accele-Charger with an AP cost of 3 or less from its Vehicle and place in owner's junk pile.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/197.jpg"
+    },
+    {
+      "id": 198,
+      "Name": "Tornado Vortex",
+      "Type": "Hazard",
+      "Description": "You've been scooped up by the 200mph winds of a Class 4 tornado! Force 2 opposing Vehicles to swap positions on the track. Both remain equipped as they are.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/198.jpg"
+    },
+    {
+      "id": 199,
+      "Name": "Mechanoid Destroyer",
+      "Type": "Hazard",
+      "Description": "A mechanical nightmare, this robotic hunk of junk consists of rusted vehicles fused with military hardware... and it's determined to add your shiny new race car to its body.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/199.jpg"
+    },
+    {
+      "id": 200,
+      "Name": "Solar Flare",
+      "Type": "Hazard",
+      "Description": "An eruption of hydrogen gas lights up the sky as the sun spits a flare of solar fire right across the track.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/200.jpg"
+    },
+    {
+      "id": 201,
+      "Name": "Acid Bath",
+      "Type": "Hazard",
+      "Description": "Destroy a Vehicle after 4 turns. Opponent places 4 tokens on the Vehicle you target and removes 1 token each turn during THEIR tune-up phase. When the last token is removed, the Vehicle is immediately sent to its owner's junk pile.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/201.jpg"
+    },
+    {
+      "id": 202,
+      "Name": "Nano Parasites",
+      "Type": "Hazard",
+      "Description": "Found on the Micro track, these synthetic parasites attack miniaturized cars with injector-like stingers.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/202.jpg"
+    },
+    {
+      "id": 203,
+      "Name": "Maze Minotaur",
+      "Type": "Hazard",
+      "Description": "Half-bull, half-man, it's a tossup which part of the Maze Minotaur is more dangerous - the ultra-sharp horns on its head or the massive stone hammer in its hands.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/203.jpg"
+    },
+    {
+      "id": 204,
+      "Name": "Forest Inferno",
+      "Type": "Hazard",
+      "Description": "A deadly firestorm devours this Forest Realm and scorches the track. In the confusion, look at your opponent's hand, then have them discard 1 card of their choice to their junk pile.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/204.jpg"
+    },
+    {
+      "id": 205,
+      "Name": "Meteor Shower",
+      "Type": "Hazard",
+      "Description": "Flaming tails of fire trail behind iron-cored space rocks as they slam into the track, scattering cars with their explosive impacts.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/205.jpg"
+    },
+    {
+      "id": 206,
+      "Name": "Blown Hydrant",
+      "Type": "Hazard",
+      "Description": "A geyser of water hits the car with the force of a small -cannon, damaging the vehicle from sheer pressure. Remove 1 Mod of your choice from target Vehicle and send to its owner's junk pile.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/206.jpg"
+    },
+    {
+      "id": 207,
+      "Name": "Avalanche",
+      "Type": "Hazard",
+      "Description": "First a tremble. Then a rumble. Then a sound like the world shaking apart. Because it is. Look up - ten thousand tons of snow, trees, boulders, and debris are falling straight at your car!",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/207.jpg"
+    },
+    {
+      "id": 208,
+      "Name": "Stone Sphinx",
+      "Type": "Hazard",
+      "Description": "The Sphinx has stone-like skin, a jackal's head, a lion's body and a scorpion-like tail. Although it enjoys riddles, it likes eating engine blocks even more.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/208.jpg"
+    },
+    {
+      "id": 209,
+      "Name": "Escher's World",
+      "Type": "Hazard",
+      "Description": "What the-?! The track suddenly spirals like an optical illusion and spins your car out of control! Remove 1 Shift card of your choice from target Vehicle and place in its owner's junk pile.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/209.jpg"
+    },
+    {
+      "id": 210,
+      "Name": "Big Trouble",
+      "Type": "Hazard",
+      "Description": "Without warning, viruses, molds, and dust mites grow to the size of large semi trucks. But they're not just big and ugly. They're hungry...",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/210.jpg"
+    }
+  ]
+}

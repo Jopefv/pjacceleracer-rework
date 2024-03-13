@@ -1,0 +1,80 @@
+.divCard{
+  margin-left: 350px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row ;
+  flex-wrap: wrap;
+  gap: 20px ;
+  width: 1000px;
+}
+
+
+.cardContainer {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  width: 600px;
+}
+
+.card {
+  margin-top: 100px;
+  flex-basis: calc(50% - 50px);
+  width: 300px;
+  background-color: #f1f1f1;
+  box-shadow: 5px 5px 10px #ccc;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.card h2 {
+  text-align: center;
+  margin: 0;
+  padding-bottom: 10px;
+}
+
+.card ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+  
+  
+}
+
+.card ul li {
+  display: flex;
+  flex-direction: column;
+  gap: 10px; 
+  align-items: center;
+  padding: 5px 0;
+  font-weight: bold;
+  
+}
+
+.textao {
+  overflow: hidden; 
+  max-height: 300px;
+  text-overflow: ellipsis;
+  white-space: wrap; 
+  width: 400px;
+  font-weight: bold;
+  text-align: justify;
+}
+
+
+.imgcard{
+  height: 200px;
+  width: 200px;
+  transform:rotate(-180deg)
+}
+
+
+.stactist {
+  display: flex;
+  flex-direction: column; /* Alterado para column */
+  align-items: center;
+}
+
+.stactist div {
+  margin-bottom: 10px; /* Adiciona um espaçamento entre os elementos na vertical */
+}

@@ -1,0 +1,118 @@
+{
+  "personagens": [
+    {
+      "nome": "Deezel 'Porkchop' Riggs",
+      "equipe": "Metal Maniacs",
+      "sinopse": "Deezel Riggs, 'Porkchop' (Costeleta de porco) é um brutamontes, barbudo e coberto de correias. Ele usa um colar enorme em torno do pescoço, e em situações tensas ele coloca o osso entre os dentes e resmunga. Riggs recusa-se a desviar de qualquer obstáculo, se ele pode passar por cima e esmagá-lo. Ele nunca perdeu uma corrida até que encontrou a equipe TEKU, onde ele tem uma obsessão com Shirako (principalmente porque ele odeia o gosto musical de Shirako).",
+      "image": "https://cdn.personalitylist.com/avatars/130576.png"
+    },
+    {
+      "nome": "Markye 'Wylde' Wylde",
+      "equipe": "Metal Maniacs",
+      "sinopse": "Markie 'Wylde' Wylde, o irmão mais jovem de Kurt, é um piloto totalmente despreocupado. Cheio de tatuagens, Wylde curtiu como 'um grande barato' desde que começou á competir. Ao contrário dos outros membros da equipe Metal Maniacs, Wylde não corre pelo prazer de correr. Ele está lá apenas para provar que é o melhor, e principalmente, melhor que seu irmão mais velho.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuqoPrOfuBD5s7kEFtU9Zwl5g54Fb4x-P0iZexDKoaChtqCezKb2hSb8tHWi3MO-3RLNE&usqp=CAU"
+    },
+    {
+      "nome": "Mitch 'Monkey' McClurg",
+      "equipe": "Metal Maniacs",
+      "sinopse": "Como um duende nervoso e esquelético, Mitch McClurg 'Monkey' (Macaco) é o mágico da mecânica da Metal Maniacs. Mitch é o responsável por consertar e regular os carros da equipe, e ele encontra-se em constante desespero com os danos que estes possam sofrer na estrada. Embora seja um bom piloto, Mitch não gosta muito de estar atrás da direção, a menos que isto seja necessário. Ele considera dirigir muito estressante.",
+      "image": "https://live.staticflickr.com/3146/2813591841_361b366989_w.jpg"
+    },
+    {
+      "nome": "Taro Kitano",
+      "equipe": "Metal Maniacs",
+      "sinopse": "Antigamente um solitário, Taro Kitano encontrou uma casa quando se uniu á Metal Maniacs. Neste grupo rude, Taro descobriu um lugar onde ele pode relaxar. Tranqüilo e um perfeccionista, Taru tem atração por Karma Eiss, piloto da equipe TEKU, como uma alma gêmea. Mas, por pertencerem á equipes diferentes eles expressam sua atração com uma forma especial de rivalidade na estrada.",
+      "image": "https://pm1.aminoapps.com/7940/6787bd81c38c0c1c4437c6940fcf8762b5caa722r1-308-300v2_00.jpg"
+    },
+    {
+      "nome": "Tork Maddox",
+      "equipe": "Metal Maniacs",
+      "sinopse": "Tork é o líder atual da equipe Metal Maniacs. Ele vive para a competição, de que tipo não importa. Lutando, praticando esportes e, melhor que tudo, correndo é a mesma coisa. Tork assumirá qualquer desafio. Se voce quer que ele faça algo, basta apostar com ele que não o fará. O estilo de liderança de Tork forte e decidido. Não gostou? Azar o seu. Tork não manifesta sua opinião sobre nada, principalmente sobre a morte de Tone Passaro.",
+      "image": "https://i.pinimg.com/236x/34/6d/a4/346da47151cd4a626a30fe08984f21bd.jpg"
+    },
+    {
+      "nome": "Nolo Passaro",
+      "equipe": "Teku",
+      "sinopse": "Um garotão bonito, com 18 anos, Nolo é o líder da equipe TEKU. Ele tem um encargo sério sobre seus ombros, e quer sempre ser o centro das atenções. Orfão desde pouca idade, cresceu nas ruas tendo sido encontrado por seu irmão mais velho, Tone. Nolo tem ego enorme, e nunca admite estar errado. Felizmente, Nolo possui uma habilidade para pilotar que justifica sua super confiança.",
+      "image": "https://i.pinimg.com/564x/95/94/1c/95941c087c58c878192d2bd2180acfe0.jpg"
+    },
+    {
+      "nome": "Karma Eiss",
+      "equipe": "Teku",
+      "sinopse": "Karma Eiss é uma mulher de cabelos longos, com olhos azuis gélidos e um jeito inabordável. Na opinião dela a vida é muito fácil, assim ela corre para se testar contra os desafios da estrada. O potencial desastre a espera lhe traz uma emoção irresistível. E fazer uma curva o mais rápido possível com seu carro, não é certamente uma coisa ruim.",
+      "image": "https://i.pinimg.com/originals/38/e0/a3/38e0a3be553be3bd8afa9d6f3f82da59.jpg"
+    },
+    {
+      "nome": "Kurt Wylde",
+      "equipe": "Teku",
+      "sinopse": "Lado a lado com o lado escuro de seu passado, Kurt Wylde faz algumas coisas das quais depois se envergonha. Como resultado, Kurt quer provar que é um herói e não um vilão, e provar que tem lugar como membro da brava equipe TEKU. Kurt e Nolo, o lider da equipe TEKU, compartilham de um relacionamento especial. Kurt vê sua relação com Nolo como uma compensação para a amizade que nunca teve com seu irmão Markye.",
+      "image": "https://i.pinimg.com/236x/25/2d/e8/252de86dd76978bb346891580151f4a2.jpg"
+    },
+    {
+      "nome": "Shirako Takamoto",
+      "equipe": "Teku",
+      "sinopse": "Shirako dirige como um baterista diferente, e ele escuta aquela bateria todo o tempo. Shirako utiliza fones de ouvido 24-7. Seu carro é um espetáculo de som e luz. Equipado com mais recursos de áudio e de vídeo do que qualquer outro membro da equipe TEKU. Durante a corrida, Shirako gosta de se exibir fazendo manobras espetaculares, só porque ele pode.",
+      "image": "https://i1.sndcdn.com/avatars-000188646892-92pxzi-t500x500.jpg"
+    },
+    {
+      "nome": "Tone Passaro",
+      "equipe": "Teku",
+      "sinopse": "Tone Passaro, o irmão mais velho de Nolo era um corredor lendário, e o fundador da equipe TEKU. Durante uma corrida contra Tork, o líder da equipe Metal Maniacs, Tone morreu. Este lamentável evento aumentou a rivalidade entre as duas equipes. Nolo culpa Tork pela morte do irmão, chegando mesmo a suspeitar que o carro de Tom tenha sido alterado pelos Metal Maniacs antes da prova.",
+      "image": "https://yt3.googleusercontent.com/ytc/AOPolaS4VMpOvujA5LklxUi51hS2W_kYLHVEbHXLit5zFg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "nome": "Vert Wheeler",
+      "equipe": "Teku",
+      "sinopse": "Passados dois anos desde que Vert Wheeler ganhou a primeira 'World Race' (Corrida Mundial), ele não é mais a criança ingênua que era na época. Pode ter crescido, porém tem ainda muito para aprender. Vert está aqui para provar que a vitória dele não foi casual, e ele está faminto pela próxima vitória. A habilidade na direção qualificam Vert para o papel de líder da equipe TEKU, o que faz existir constantemente uma certa tensão entre ele e Nolo.",
+      "image": "https://pm1.aminoapps.com/6975/0cc89e82a4a3b4a2e846b2cd7e010dee2c7f5063r1-512-288v2_hq.jpg"
+    },
+    {
+      "nome": "Gelorun",
+      "equipe": "Racing Drones",
+      "sinopse": "Gelorum é a líder diabólica da equipe Racing Drones, os pilotos robóticos construídos milhares de anos atrás pelos Accelerons. Um robô escondido atrás de uma face humana, Gelorum roubou o 'Anel do Poder' da cidade 'Hot Wheels'. Com uma frota ilimitada de veículos mortais, os Racing Drones ameaçam se tornar os mais poderosos pilotos do universo.",
+      "image": "https://hotwheelsbr.com/AcceleRacers/Codes-Background-Gelorum-sm.jpg"
+    },
+    {
+      "nome": "RD-L1",
+      "equipe": "Racing Drones",
+      "sinopse": "Um monstro robótico com dois metros e meio de altura, feito de metal preto e brilhante, RD-L1 ('Racing Drone Lieutenant 1', Primeiro Lugar-Tenente Racing Drone), é o principal piloto de Gelorum. Querendo nada além da destruição de todos os seus adversários humanos, RD-L1 é pura maldade. Nada o impedirá para adquirir todos os Accele-Chargers. Quando RD-L1 ingressa no seu carro, partes de seu corpo robótico na verdade compõem a maior parte do veículo.",
+      "image": "https://yt3.googleusercontent.com/ytc/AIf8zZSgxPBRjGZzB7DHxCVcCNf9VLYHH7V9lfuCximw=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "nome": "RD-S1",
+      "equipe": "Racing Drones",
+      "sinopse": "RD-S1 ('Racing Drone Soldier 1', Primeiro Soldado Racing Drone) é um modelo robótico um pouco menor que RD-L1, mas não menos ameaçador. Gelorum temn dezenas destes pilotos robóticos á sua disposição. Como outro 'drones', RD-S1 pode expandir suas características humanóides, possui apêndices adicionais equipados com armas e ferramentas especiais.",
+      "image": "https://images.hobbydb.com/processed_uploads/subject_photo/subject_photo/image/35848/1515501571-25253-4506/rds1__large.jpg"
+    },
+    {
+      "nome": "MD-01",
+      "equipe": "Racing Drones",
+      "sinopse": "MD-01 ('Motorcycle Drone'), também conhecido como RD-M1 ('Racing Drone Motorcycle'), é um modelo robótico dos Racing Drones de pequeno porte que utiliza motocicletas. Milhares destes 'motoqueiros' estão a disposição de Gelorum, tendo como principal característica a capacidade de sair de dentro do Sweeper, um caminhão gigante que engole carros, proporcionando ataques-surpresa. Durante a série, pilotaram a motocicleta RD-07.",
+      "image": "https://www.postavy.cz/foto/md-01-foto.jpg"
+    },
+    {
+      "nome": "Pilotos do Sweeper",
+      "equipe": "Racing Drones",
+      "sinopse": "Estes imensos robôs são os condutores do grandioso veículo Sweeper. São os Racing Drones mais altos e mais aterrorizantes já feitos.",
+      "image": "https://www.postavy.cz/foto/sweeper-driver-foto.jpg"
+    },
+    {
+      "nome": "Brian 'Zone' Kadeem (Drone)",
+      "equipe": "Racing Drones",
+      "sinopse": " Outro piloto que correu anteriormente na Corrida Mundial, Kadeem e alguns outros participantes desta competição foram recrutados para auxiliar o Dr. Tezla pouco tempo depois do término do evento.  Após ser capturado pelos Racing Drones no Reino da Tempestade, Kadeem foi transformado num maligno ciborgue por Gelorum, sendo depois derrotado por Kurt e Mark Wylde no Quartel General dos Drones. Durante a série, pilotou o veículo Krazy 8's.",
+      "image": "https://pm1.aminoapps.com/7140/42880d788156a3c11b79b96c6b3ceb18f3b9c6e9r1-370-308v2_hq.jpg"
+    },
+    {
+      "nome": "Jack Wheeler",
+      "equipe": "Silencerz",
+      "sinopse": " Pai de Vert e supostamente líder de um esquadrão de elite do exército, sempre mostrou ao filho que a obrigação vem em primeiro lugar, mesmo que tenha de escolher entre duas coisas que são tudo na sua vida. Após Vert adentrar ao Quartel General dos Silencerz, o mesmo é capturado pelos membros da equipe. Logo depois, Jack revela-se ao seu filho como um dos pilotos da equipe. Durante a série, pilotou os veículos Iridium e Vectra Magnesium.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDXsAkouEk56tfeviuAmL8F2fKVI8uX8-y-A&usqp=CAU"
+    },
+    {
+      "nome": "?????",
+      "equipe": "Silencerz",
+      "sinopse": ": O restante dos pilotos da equipe Silencerz são um mistério a ser desvendado. Liderados por Jack Wheeler, entram nos reinos camuflados na tentativa de vencê-los antes que os demais pilotos. Sobre a identidade deles, alguns dizem serem ex-pilotos recrutados da Corrida Mundial, outros dizem serem pilotos perdidos em reinos anteriores que foram resgatados. Independente de todas as especulações em volta da equipe Silencerz, o que sabemos é que são extremamente rápidos e inteligentes, utilizando o máximo dos recursos disponíveis para vencer os reinos. Por sorte, nenhum dos pilotos dos Silencerz causou algum tipo de acidente que prejudicasse os demais pilotos. Durante a série, pilotaram os veículos Accelium, Anthracite, Covelight, Iridium, Metaloid, Nitrium, Octanium e Technetium.",
+      "image": "https://pm1.aminoapps.com/7192/26a4aa955aa132c88fd336b6298b2768369964f5r1-300-168v2_hq.jpg"
+    }
+  ]
+}

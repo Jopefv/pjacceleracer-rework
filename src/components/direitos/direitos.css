@@ -1,0 +1,17 @@
+.direito{
+  height: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+  background-color: black;
+  gap: 500px;
+}
+
+.texto{
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  font-weight: bold;
+}

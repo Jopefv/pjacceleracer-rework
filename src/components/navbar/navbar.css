@@ -1,0 +1,36 @@
+.navbar {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  background-color: black;
+  position: fixed;
+  top: 0; 
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+
+.logo{
+  background-color: transparent;
+}
+
+.nav{
+  color: #fff;
+  text-decoration: none;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  margin-left: 500px;
+}
+
+.navi{
+  background-color: #fff;
+  color: #111;
+  padding: 5px 10px;
+  text-decoration: none;
+  border-radius: 5px;
+}

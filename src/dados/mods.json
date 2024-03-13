@@ -1,0 +1,285 @@
+{
+  "cards": [
+    {
+      "id": 131,
+      "Name": "Traction Control",
+      "Type": "MOD",
+      "Effects": "Linked to the car's power distribution node, this Mod enables a driver to shift power to any of the wheels, maximizing traction and enabling smoother acceleration.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/131.jpg"
+    },
+    {
+      "id": 132,
+      "Name": "Spiked Tires",
+      "Type": "MOD",
+      "Effects": "Ideal on smooth or slick surfaces, these steel alloy spikes dig into even the most impenetrable of surfaces, allowing less powerful vehicles to climb beyond what their torque curve should allow.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/132.jpg"
+    },
+    {
+      "id": 133,
+      "Name": "Aero Package",
+      "Type": "MOD",
+      "Effects": "Utilizing new aero flow designs, this package increases the down force of the vehicle, resulting in improved traction, better suspension response, and a decent boost to speed.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/133.jpg"
+    },
+    {
+      "id": 134,
+      "Name": "Active Camouflage",
+      "Type": "MOD",
+      "Effects": "Using the latest fiber.optic technology, this Mod takes high-res pictures of the car's surroundings and projects them across the chassis, camouflaging the vehicle like a hi-tech chameleon.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/134.jpg"
+    },
+    {
+      "id": 135,
+      "Name": "Rocket Socket Hyperpod",
+      "Type": "MOD",
+      "Effects": "Wrap this exo-frame of pure speed around your car and you won't regret the boost - if the G-forces don't crush you, that is.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/135.jpg"
+    },
+    {
+      "id": 136,
+      "Name": "Mega Bass Box",
+      "Type": "MOD",
+      "Effects": "The ultimate car stereo, Mega Bass Box also acts as a sonic weapon, blasting cars off the road with its thundering bass beats. Can only be used by a Teku vehicle.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/136.jpg"
+    },
+    {
+      "id": 137,
+      "Name": "Sweepers",
+      "Type": "MOD",
+      "Effects": "These modified vehicles were designed to chase down other cars, dissect them, then add their secrets to the Racing Drones' technological database. Can only be used by a Racing Drone vehicle.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/137.jpg"
+    },
+    {
+      "id": 138,
+      "Name": "Dual Driller Hyperpod",
+      "Type": "MOD",
+      "Effects": "These twin titanium-tipped drills can bore right through rock... or the competition.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/138.jpg"
+    },
+    {
+      "id": 139,
+      "Name": "Poly-Alloy Wheels",
+      "Type": "MOD",
+      "Effects": "Crafted from a unique poly-alloy, these metal wheels are perfect for driving on polished surfaces. Unfortunately, they lack traction on rougher terrain.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/139.jpg"
+    },
+    {
+      "id": 140,
+      "Name": "Asphalt Anchor",
+      "Type": "MOD",
+      "Effects": "A rear-fired anchor stops you short of danger! Once equipped, you may junk Asphalt Anchor to cancel 1 Hazard played against any card in the same Realm as Asphalt Anchor.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/140.jpg"
+    },
+    {
+      "id": 141,
+      "Name": "Grappler Claw",
+      "Type": "MOD",
+      "Effects": "Fired from the front of the car, the Grappler Claw can be used to grab onto opponents or to hoist a car up and out of danger.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/141.jpg"
+    },
+    {
+      "id": 142,
+      "Name": "Hyper Beams",
+      "Type": "MOD",
+      "Effects": "This high-powered combination of halogen headlights and fiber optics floods the path like twin suns, instantly turning night into day.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/142.jpg"
+    },
+    {
+      "id": 143,
+      "Name": "Camo Skin",
+      "Type": "MOD",
+      "Effects": "Derived from Morphite technology, this nano-tech paint allows the driver to project another car's image - or its surroundings - onto his own and disguise it perfectly. Can only be used by a Silencerz vehicle.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/143.jpg"
+    },
+    {
+      "id": 144,
+      "Name": "Pulse Emitter",
+      "Type": "MOD",
+      "Effects": "The Pulse Emitter projects a series of deep sonic pings that create a virtual map of the area. Following this map allows a racer to navigate safely in the dark.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/144.jpg"
+    },
+    {
+      "id": 145,
+      "Name": "Nitrox³",
+      "Type": "MOD",
+      "Effects": "Big speed, short duration. When brought into play, mark this Mod with 3 tokens. Beginning on your next tune-up phase, remove 1 token each turn. When all tokens are gone, immediately discard Nitrox to your junk pile.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/145.jpg"
+    },
+    {
+      "id": 146,
+      "Name": "Spoiler",
+      "Type": "MOD",
+      "Effects": "Fused to the back of the car, this metal 'wing' creates enough down force to provide stability and traction at high speeds.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/146.jpg"
+    },
+    {
+      "id": 147,
+      "Name": "Gyro Stabilizer",
+      "Type": "MOD",
+      "Effects": "More than one high-speed driver has found the Gyro Stabilizer to be a life-saver. This Mod prevents car 'tipping', virtually eliminating roll-overs.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/147.jpg"
+    },
+    {
+      "id": 148,
+      "Name": "Carpoon Hyperpod",
+      "Type": "MOD",
+      "Effects": "This oversized projectile is more than a long-range grappling hook. It makes a pretty decent weapon, too.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/148.jpg"
+    },
+    {
+      "id": 149,
+      "Name": "Slam Ram Hyperpod",
+      "Type": "MOD",
+      "Effects": "A piston-mounted battering ram, the Slam Ram HyperPod packs a high-pressure punch that will flatten anything it can reach.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/149.jpg"
+    },
+    {
+      "id": 150,
+      "Name": "'Second Wind' O2 Tank",
+      "Type": "MOD",
+      "Effects": "Engines need air for combustion and this Mod provides it. Like a scuba tank, it supplies air when needed, then. recharges whenever it enters an oxygen-rich environment.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/150.jpg"
+    },
+    {
+      "id": 151,
+      "Name": "Vector Thrust",
+      "Type": "MOD",
+      "Effects": "Using ported thrust to force the vehicle in a specific direction, this Mod provides extremely nimble control of the car and allows for instant lane changes.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/151.jpg"
+    },
+    {
+      "id": 152,
+      "Name": "Armored Plow",
+      "Type": "MOD",
+      "Effects": "When activated, this Mod folds out to form a heat resistant plow... or battering ram, depending on how you use it. While equipped, this Mod cancels all Hazards of 2AP or less played against this Vehicle stack.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/152.jpg"
+    },
+    {
+      "id": 153,
+      "Name": "Suspension Enhancers",
+      "Type": "MOD",
+      "Effects": "A magnetic pulse flings cars off the track! Send 1 opposing Vehicle back 1 Realm, discarding everything but Mods to its junk pile. If Vehicle is in the first Realm, it returns to its owner's hand after discarding ALL its equipped cards to the junk pile.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/153.jpg"
+    },
+    {
+      "id": 154,
+      "Name": "Strato-Thruster",
+      "Type": "MOD",
+      "Effects": "Got your pilot's license? This Mod grants limited flight capability. At the start of your next turn, the Vehicle this equips AUTOMATICALLY ADVANCES to the next Realm and Strato-Thruster is removed to your junk pile.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/154.jpg"
+    },
+    {
+      "id": 155,
+      "Name": "Octo-Rod Hyperpod",
+      "Type": "MOD",
+      "Effects": "The Octo-Rod HyperPod converts a vehicle into a segmented, eight-wheeled monstrosity, unstoppable in any harsh terrain. Unstoppable, but extremely slow.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/155.jpg"
+    },
+    {
+      "id": 156,
+      "Name": "Four Wheel Steering",
+      "Type": "MOD",
+      "Effects": "This Mod allows all of the car's wheels to turn in sync so that the vehicle can be driven sideways. With such improved maneuverability, the vehicle can negotiate all kinds of tight situations.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/156.jpg"
+    },
+    {
+      "id": 157,
+      "Name": "Jump Jets",
+      "Type": "MOD",
+      "Effects": "Engineered from Waveripper technology, this Mod lets racers make short jumps without a ramp or hover temporarily above obstacles. When this card comes into play, you can draw 1 extra card for free.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/157.jpg"
+    },
+    {
+      "id": 158,
+      "Name": "Balance Box",
+      "Type": "MOD",
+      "Effects": "By constantly shifting the distribution of weight across the vehicle's body, Balance Box allows a vehicle to drive on only two wheels with maximum stability.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/158.jpg"
+    },
+    {
+      "id": 159,
+      "Name": "Engine Elixir",
+      "Type": "MOD",
+      "Effects": "A high-performance combo, Engine Elixir consists of a frictionless lubricant and an explosive fuel additive. It ensures that all internal parts glide like glass and the fuel mixture pops like dynamite.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/159.jpg"
+    },
+    {
+      "id": 160,
+      "Name": "Feather Frame",
+      "Type": "MOD",
+      "Effects": "lightweight structural composites. The loss of mass leads to increased speed... but a significant decrease in durability.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/160.jpg"
+    },
+    {
+      "id": 161,
+      "Name": "Racing Slicks",
+      "Type": "MOD",
+      "Effects": "Racing Slicks are the best high traction tires on the market, customized by adding 'pincer' treads that grip the road with hundreds of tiny claws - it's just like driving on Velcro.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/161.jpg"
+    },
+    {
+      "id": 162,
+      "Name": "Shell Skin",
+      "Type": "MOD",
+      "Effects": "Shell Skin protects a Vehicle stack from 2 Hazards. When equipped, mark this Mod with 2 tokens and remove 1 each time a Hazard is played against its Vehicle stack.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/162.jpg"
+    },
+    {
+      "id": 163,
+      "Name": "Spy Eye",
+      "Type": "MOD",
+      "Effects": "A robotic drone that flies high above the track, Spy Eye scopes out advance road hazards and other drivers. When Spy Eye is brought into play, look at your opponent's hand.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/163.jpg"
+    },
+    {
+      "id": 164,
+      "Name": "Air Refresher",
+      "Type": "MOD",
+      "Effects": "This Mod filters the air going to both the engine and driver, screening out particles and poisons. When this Mod comes into play, return one card from your junk pile to your hand.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/164.jpg"
+    },
+    {
+      "id": 165,
+      "Name": "Megacharger",
+      "Type": "MOD",
+      "Effects": "This specially designed supercharger is guaranteed to give any vehicle a 200+ horsepower boost.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/165.jpg"
+    },
+    {
+      "id": 166,
+      "Name": "Hardened Underbelly",
+      "Type": "MOD",
+      "Effects": "A barrier of energy and steel protects the drive train. Hardened Underbelly allows the Vehicle it equips to KEEP 1 SHIFT CARD EQUIPPED when it advances to any new Realm.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/166.jpg"
+    },
+
+    {
+      "id": 167,
+      "Name": "Wheel Shield",
+      "Type": "MOD",
+      "Effects": "Metal plates around the wheels protect them from damage and enhance the aero-effect. Though it limits the car's turning ability, many drivers consider the added protection a fair trade-off.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/167.jpg"
+    },
+    {
+      "id": 168,
+      "Name": "Dragon Torch",
+      "Type": "MOD",
+      "Effects": "A retractable, industrial-grade acetylene-style blowtorch, this Mod cuts through obstacles... and opponents. Can only be used by a Metal Maniac vehicle.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/168.jpg"
+    },
+    {
+      "id": 169,
+      "Name": "Diffusion Glass",
+      "Type": "MOD",
+      "Effects": "Coated with a UV-sensitive glaze, the windows block out excessive glare, focusing the driver's attention on the road in front of him.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/169.jpg"
+    },
+    {
+      "id": 170,
+      "Name": "Tweak Box",
+      "Type": "MOD",
+      "Effects": "Consisting of a microprocessor and touch screen, Tweak Box directly monitors and controls engine power and torque curves, allowing for on-the-fly adjustments by the driver.",
+      "url": "https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/sets/setimages/acceleracers/170.jpg"
+    }
+  ]
+}
